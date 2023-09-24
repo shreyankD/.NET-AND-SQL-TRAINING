@@ -1,7 +1,0 @@
-D:\csharp_assignments\Train_Ticket_Booking\Train_Ticket_Booking\obj\Debug\Train_Ticket_Booking.csproj.AssemblyReference.cache
-D:\csharp_assignments\Train_Ticket_Booking\Train_Ticket_Booking\obj\Debug\Train_Ticket_Booking.csproj.CoreCompileInputs.cache
-D:\csharp_assignments\Train_Ticket_Booking\Train_Ticket_Booking\bin\Debug\Train_Ticket_Booking.exe.config
-D:\csharp_assignments\Train_Ticket_Booking\Train_Ticket_Booking\bin\Debug\Train_Ticket_Booking.exe
-D:\csharp_assignments\Train_Ticket_Booking\Train_Ticket_Booking\bin\Debug\Train_Ticket_Booking.pdb
-D:\csharp_assignments\Train_Ticket_Booking\Train_Ticket_Booking\obj\Debug\Train_Ticket_Booking.exe
-D:\csharp_assignments\Train_Ticket_Booking\Train_Ticket_Booking\obj\Debug\Train_Ticket_Booking.pdb

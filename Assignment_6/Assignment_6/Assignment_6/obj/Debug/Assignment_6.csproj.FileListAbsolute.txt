@@ -1,6 +1,0 @@
-D:\csharp_assignments\Assignment_6\Assignment_6\bin\Debug\Assignment_6.dll
-D:\csharp_assignments\Assignment_6\Assignment_6\bin\Debug\Assignment_6.pdb
-D:\csharp_assignments\Assignment_6\Assignment_6\obj\Debug\Assignment_6.csproj.AssemblyReference.cache
-D:\csharp_assignments\Assignment_6\Assignment_6\obj\Debug\Assignment_6.csproj.CoreCompileInputs.cache
-D:\csharp_assignments\Assignment_6\Assignment_6\obj\Debug\Assignment_6.dll
-D:\csharp_assignments\Assignment_6\Assignment_6\obj\Debug\Assignment_6.pdb

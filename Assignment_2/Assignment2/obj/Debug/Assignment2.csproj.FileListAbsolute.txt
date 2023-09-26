@@ -1,7 +1,0 @@
-D:\Trainingproject\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
-D:\Trainingproject\Assignment2\Assignment2\bin\Debug\Assignment2.exe
-D:\Trainingproject\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
-D:\Trainingproject\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.AssemblyReference.cache
-D:\Trainingproject\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
-D:\Trainingproject\Assignment2\Assignment2\obj\Debug\Assignment2.exe
-D:\Trainingproject\Assignment2\Assignment2\obj\Debug\Assignment2.pdb

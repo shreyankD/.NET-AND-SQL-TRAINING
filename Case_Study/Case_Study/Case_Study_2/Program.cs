@@ -103,59 +103,6 @@ namespace Case_Study_2
                             Console.WriteLine("Course introduced successfully.");
                             break;
                         case 2:
-                            //Console.Write("Enter Student ID: ");
-                            //int studentId = int.Parse(Console.ReadLine());
-                            //Console.Write("Enter Student Name: ");
-                            //string studentName = Console.ReadLine();
-                            //Console.Write("Enter Student Date of Birth (yyyy-MM-dd): ");
-                            //DateTime studentDob = DateTime.Parse(Console.ReadLine());
-                            //appEngine.Register(new Student(studentId, studentName, studentDob));
-                            //Console.WriteLine("Student registered successfully.");
-
-                            //Console.WriteLine("\nChoose a scenario for student registration:");
-                            //Console.WriteLine("1. Scenario 1 (CaseStudy1)");
-                            //Console.WriteLine("2. Scenario 2 (CaseStudy2)");
-                            //Console.Write("Enter your choice (1-2): ");
-
-                            //if (int.TryParse(Console.ReadLine(), out int scenarioChoice))
-                            //{
-                            //    if (scenarioChoice == 1)
-                            //    {
-                            //        Console.Write("Enter Student ID: ");
-                            //        int studentId = int.Parse(Console.ReadLine());
-                            //        Console.Write("Enter Student Name: ");
-                            //        string studentName = Console.ReadLine();
-                            //        Console.Write("Enter Student Date of Birth (yyyy-MM-dd): ");
-                            //        DateTime studentDob = DateTime.Parse(Console.ReadLine());
-                            //        appEngine.Register(new Student(studentId, studentName, studentDob));
-                            //        Console.WriteLine("Student registered successfully.");
-                            //    }
-                            //    else if (scenarioChoice == 2)
-                            //    {
-                            //        Console.Write("Enter Student ID: ");
-                            //        int studentId = int.Parse(Console.ReadLine());
-                            //        Console.Write("Enter Student Name: ");
-                            //        string studentName = Console.ReadLine();
-                            //        Console.Write("Enter Student Date of Birth (yyyy-MM-dd): ");
-                            //        DateTime studentDob = DateTime.Parse(Console.ReadLine());
-
-                            //        // Implement Scenario 2 for student registration here...
-                            //        // You can add your specific logic here...
-
-                            //        appEngine.Register(new Student(studentId, studentName, studentDob));
-                            //        Console.WriteLine("Student registered successfully in Scenario 2.");
-                            //    }
-                            //    else
-                            //    {
-                            //        Console.WriteLine("Invalid choice. Please select a valid scenario (1-2).");
-                            //    }
-                            //}
-                            //else
-                            //{
-                            //    Console.WriteLine("Invalid input. Please enter a numeric choice.");
-                            //}
-                            //break;
-
                             Console.WriteLine("\nChoose scenario type for student registration:");
                             Console.WriteLine("1. Scenario 1 (Case_Study_1)");
                             Console.WriteLine("2. Scenario 2 (Case_Study_1)");

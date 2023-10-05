@@ -1,0 +1,11 @@
+D:\csharp_assignments\Assignment_7\Assignment_6_Remote\Assignment_6_Remote\bin\Debug\Assignment_6_Remote.dll
+D:\csharp_assignments\Assignment_7\Assignment_6_Remote\Assignment_6_Remote\bin\Debug\Assignment_6_Remote.pdb
+D:\csharp_assignments\Assignment_7\Assignment_6_Remote\Assignment_6_Remote\obj\Debug\Assignment_7_Remote.csproj.AssemblyReference.cache
+D:\csharp_assignments\Assignment_7\Assignment_6_Remote\Assignment_6_Remote\obj\Debug\Assignment_7_Remote.csproj.CoreCompileInputs.cache
+D:\csharp_assignments\Assignment_7\Assignment_6_Remote\Assignment_6_Remote\obj\Debug\Assignment_6_Remote.dll
+D:\csharp_assignments\Assignment_7\Assignment_6_Remote\Assignment_6_Remote\obj\Debug\Assignment_6_Remote.pdb
+D:\csharp_assignments\Assignment_7\Assignment_7_Remote\Assignment_7_Remote\bin\Debug\Assignment_6_Remote.dll
+D:\csharp_assignments\Assignment_7\Assignment_7_Remote\Assignment_7_Remote\bin\Debug\Assignment_6_Remote.pdb
+D:\csharp_assignments\Assignment_7\Assignment_7_Remote\Assignment_7_Remote\obj\Debug\Assignment_7_Remote.csproj.CoreCompileInputs.cache
+D:\csharp_assignments\Assignment_7\Assignment_7_Remote\Assignment_7_Remote\obj\Debug\Assignment_6_Remote.dll
+D:\csharp_assignments\Assignment_7\Assignment_7_Remote\Assignment_7_Remote\obj\Debug\Assignment_6_Remote.pdb

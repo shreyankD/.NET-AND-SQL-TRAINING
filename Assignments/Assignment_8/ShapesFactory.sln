@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
@@ -23,3 +24,30 @@ Global
 		SolutionGuid = {AB0AD762-7F95-49D8-AF2E-37E47DE0838F}
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33927.289
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShapesFactory", "ShapesFactory\ShapesFactory.csproj", "{DF94424F-47F3-46D7-8E03-76A520DBCE13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF94424F-47F3-46D7-8E03-76A520DBCE13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF94424F-47F3-46D7-8E03-76A520DBCE13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF94424F-47F3-46D7-8E03-76A520DBCE13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF94424F-47F3-46D7-8E03-76A520DBCE13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB0AD762-7F95-49D8-AF2E-37E47DE0838F}
+	EndGlobalSection
+EndGlobal
+>>>>>>> 46a3b041368c6487bb241fdc9b2f6a71ee11e10e

@@ -1,7 +1,7 @@
 
 create Database SQL_Assignment_1
 ----------------------------------------------------------------
--- Create Employees Clients
+-- Create Clients
 CREATE TABLE Clients (
     Client_ID INT PRIMARY KEY,
     Cname VARCHAR(40) NOT NULL,

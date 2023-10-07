@@ -1,7 +1,0 @@
-D:\csharp_assignments\CODE_BASED\CODEBASED_2\CODEBASED_2\bin\Debug\CODEBASED_2.exe.config
-D:\csharp_assignments\CODE_BASED\CODEBASED_2\CODEBASED_2\bin\Debug\CODEBASED_2.exe
-D:\csharp_assignments\CODE_BASED\CODEBASED_2\CODEBASED_2\bin\Debug\CODEBASED_2.pdb
-D:\csharp_assignments\CODE_BASED\CODEBASED_2\CODEBASED_2\obj\Debug\CODEBASED_2.csproj.AssemblyReference.cache
-D:\csharp_assignments\CODE_BASED\CODEBASED_2\CODEBASED_2\obj\Debug\CODEBASED_2.csproj.CoreCompileInputs.cache
-D:\csharp_assignments\CODE_BASED\CODEBASED_2\CODEBASED_2\obj\Debug\CODEBASED_2.exe
-D:\csharp_assignments\CODE_BASED\CODEBASED_2\CODEBASED_2\obj\Debug\CODEBASED_2.pdb

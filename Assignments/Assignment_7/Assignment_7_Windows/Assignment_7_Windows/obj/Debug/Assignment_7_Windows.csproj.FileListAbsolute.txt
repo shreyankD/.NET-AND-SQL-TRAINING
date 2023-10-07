@@ -1,4 +1,0 @@
-D:\csharp_assignments\Assignment_7\Assignment_7_Windows\Assignment_7_Windows\obj\Debug\Assignment_7_Windows.csproj.AssemblyReference.cache
-D:\csharp_assignments\Assignment_7\Assignment_7_Windows\Assignment_7_Windows\obj\Debug\Assignment_7_Windows.Properties.Resources.resources
-D:\csharp_assignments\Assignment_7\Assignment_7_Windows\Assignment_7_Windows\obj\Debug\Assignment_7_Windows.csproj.GenerateResource.cache
-D:\csharp_assignments\Assignment_7\Assignment_7_Windows\Assignment_7_Windows\obj\Debug\Assignment_7_Windows.csproj.CoreCompileInputs.cache

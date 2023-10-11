@@ -54,13 +54,13 @@ SELECT ename, sal FROM emp WHERE sal > 1000;
 --3.Display the names and salaries of all employees except JAMES.
 SELECT ename, sal FROM emp WHERE ename != 'JAMES';
 
---4.Find out the details of employees whose names begin with ‘S’.
+--4.Find out the details of employees whose names begin with â€˜Sâ€™.
 SELECT * FROM emp WHERE ename LIKE 'S%';
 
---5.Find out the names of all employees that have ‘A’ anywhere in their name. 
+--5.Find out the names of all employees that have â€˜Aâ€™ anywhere in their name. 
 SELECT ename FROM emp WHERE ename LIKE '%A%';
 
---6.Find out the names of all employees that have ‘L’ as their third character in their name. 
+--6.Find out the names of all employees that have â€˜Lâ€™ as their third character in their name. 
 SELECT * FROM emp WHERE ename LIKE '__L%';
 
 --7.Compute daily salary of JONES.
@@ -97,13 +97,7 @@ WHERE (ename LIKE '%L%L%' AND deptno = 30) OR mgr_id = 7782;
 
 --16.Display the names of employees with experience of over 30 years and under 40 years. Count the total number of employees.
 select ename from emp where datediff(year,hiredate,getdate())> 30 and datediff(year,hiredate,getdate())< 40
-
-
--------------16. Display the names of employees with experience of over 30 years and under 40 yrs.Count the total number of employees. 
-
-select count(*) as "total no of emp", ename from emp where (2023-YEAR(hiredate))>30 and (2023-YEAR(hiredate))<40 group by ename
-
-
+	
 --17.Retrieve the names of departments in ascending order and their employees in descending order.
 SELECT dname, ename FROM DEPT
 JOIN emp ON dept.deptno = emp.deptno

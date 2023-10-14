@@ -30,11 +30,11 @@ end
 exec tables @num = 9;
 
 
---3.  Create a trigger to restrict data manipulation on EMP table during General holidays. Display the error message like ìDue to Independence day you cannot manipulate dataî or "Due To Diwali", you cannot manupulate" etc Note: Create holiday table as (holiday_date,Holiday_name) store at least 4 holiday details. try to match and stop manipulation 
+--3.  Create a trigger to restrict data manipulation on EMP table during General holidays. Display the error message like ‚ÄúDue to Independence day you cannot manipulate data‚Äù or "Due To Diwali", you cannot manupulate" etc Note: Create holiday table as (holiday_date,Holiday_name) store at least 4 holiday details. try to match and stop manipulation 
 create table Holidays
 (holiday_date Date Primary Key, holiday_name nvarchar(max));
 
-INSERT INTO HOLIDAYs values
+INSERT INTO Holidays values
 ('2023-02-30','Deepawali'),
 ('2023-08-12','Independence Day'),
 ('2023-03-30','Ramzan'),

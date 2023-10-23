@@ -1,4 +1,5 @@
 CREATE DATABASE CODEBASED_6;
+USE CODEBASED_6;
 
 --a. Create a table called Code_Employee(empno int primary key,
 --   empname varchar(35), (is a required field)

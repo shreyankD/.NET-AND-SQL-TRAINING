@@ -1,0 +1,7 @@
+D:\csharp_assignments\CODE_BASED\CODEBASED_4\CODEBASED_4\bin\Debug\CODEBASED_4.exe.config
+D:\csharp_assignments\CODE_BASED\CODEBASED_4\CODEBASED_4\bin\Debug\CODEBASED_4.exe
+D:\csharp_assignments\CODE_BASED\CODEBASED_4\CODEBASED_4\bin\Debug\CODEBASED_4.pdb
+D:\csharp_assignments\CODE_BASED\CODEBASED_4\CODEBASED_4\obj\Debug\CODEBASED_4.csproj.AssemblyReference.cache
+D:\csharp_assignments\CODE_BASED\CODEBASED_4\CODEBASED_4\obj\Debug\CODEBASED_4.csproj.CoreCompileInputs.cache
+D:\csharp_assignments\CODE_BASED\CODEBASED_4\CODEBASED_4\obj\Debug\CODEBASED_4.exe
+D:\csharp_assignments\CODE_BASED\CODEBASED_4\CODEBASED_4\obj\Debug\CODEBASED_4.pdb

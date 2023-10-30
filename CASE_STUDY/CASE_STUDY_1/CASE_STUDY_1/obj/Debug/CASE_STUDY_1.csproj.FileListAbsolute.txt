@@ -1,0 +1,7 @@
+D:\csharp_assignments\CASE_STUDY\CASE_STUDY_1\CASE_STUDY_1\bin\Debug\CASE_STUDY_1.exe.config
+D:\csharp_assignments\CASE_STUDY\CASE_STUDY_1\CASE_STUDY_1\bin\Debug\CASE_STUDY_1.exe
+D:\csharp_assignments\CASE_STUDY\CASE_STUDY_1\CASE_STUDY_1\bin\Debug\CASE_STUDY_1.pdb
+D:\csharp_assignments\CASE_STUDY\CASE_STUDY_1\CASE_STUDY_1\obj\Debug\CASE_STUDY_1.csproj.AssemblyReference.cache
+D:\csharp_assignments\CASE_STUDY\CASE_STUDY_1\CASE_STUDY_1\obj\Debug\CASE_STUDY_1.csproj.CoreCompileInputs.cache
+D:\csharp_assignments\CASE_STUDY\CASE_STUDY_1\CASE_STUDY_1\obj\Debug\CASE_STUDY_1.exe
+D:\csharp_assignments\CASE_STUDY\CASE_STUDY_1\CASE_STUDY_1\obj\Debug\CASE_STUDY_1.pdb

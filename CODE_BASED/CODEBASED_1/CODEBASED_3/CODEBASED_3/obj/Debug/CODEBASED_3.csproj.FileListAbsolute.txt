@@ -1,0 +1,7 @@
+D:\csharp_assignments\CODE_BASED\CODEBASED_3\CODEBASED_3\bin\Debug\CODEBASED_3.exe.config
+D:\csharp_assignments\CODE_BASED\CODEBASED_3\CODEBASED_3\bin\Debug\CODEBASED_3.exe
+D:\csharp_assignments\CODE_BASED\CODEBASED_3\CODEBASED_3\bin\Debug\CODEBASED_3.pdb
+D:\csharp_assignments\CODE_BASED\CODEBASED_3\CODEBASED_3\obj\Debug\CODEBASED_3.csproj.AssemblyReference.cache
+D:\csharp_assignments\CODE_BASED\CODEBASED_3\CODEBASED_3\obj\Debug\CODEBASED_3.csproj.CoreCompileInputs.cache
+D:\csharp_assignments\CODE_BASED\CODEBASED_3\CODEBASED_3\obj\Debug\CODEBASED_3.exe
+D:\csharp_assignments\CODE_BASED\CODEBASED_3\CODEBASED_3\obj\Debug\CODEBASED_3.pdb

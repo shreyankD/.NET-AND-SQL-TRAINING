@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\bin\Debug\CODEBASED_6.exe.config
 C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\bin\Debug\CODEBASED_6.exe
 C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\bin\Debug\CODEBASED_6.pdb
@@ -5,3 +6,12 @@ C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\obj\Debug\CODEBASED_6.csproj.
 C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\obj\Debug\CODEBASED_6.csproj.CoreCompileInputs.cache
 C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\obj\Debug\CODEBASED_6.exe
 C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\obj\Debug\CODEBASED_6.pdb
+=======
+C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\bin\Debug\CODEBASED_6.exe.config
+C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\bin\Debug\CODEBASED_6.exe
+C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\bin\Debug\CODEBASED_6.pdb
+C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\obj\Debug\CODEBASED_6.csproj.AssemblyReference.cache
+C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\obj\Debug\CODEBASED_6.csproj.CoreCompileInputs.cache
+C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\obj\Debug\CODEBASED_6.exe
+C:\Users\shreyankd\Desktop\CODEBASED_6\CODEBASED_6\obj\Debug\CODEBASED_6.pdb
+>>>>>>> 775706dc89fb3225aeeaedcf262edbfb46273c5a

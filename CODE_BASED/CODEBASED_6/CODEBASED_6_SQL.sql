@@ -1,4 +1,8 @@
 CREATE DATABASE CODEBASED_6;
+<<<<<<< HEAD
+=======
+USE CODEBASED_6;
+>>>>>>> 775706dc89fb3225aeeaedcf262edbfb46273c5a
 
 --a. Create a table called Code_Employee(empno int primary key,
 --   empname varchar(35), (is a required field)
@@ -65,4 +69,8 @@ DEALLOCATE employee_cursors;
 
 SELECT * FROM emp WHERE deptno = 10;
 
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> 775706dc89fb3225aeeaedcf262edbfb46273c5a

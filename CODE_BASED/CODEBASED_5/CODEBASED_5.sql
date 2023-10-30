@@ -1,9 +1,18 @@
+<<<<<<< HEAD
 create database CODEBASED_5
 
 ---QUESTION 1
 
 --Create a book table with id as primary key and provide the appropriate data type to other attributes .isbn no should be unique for each book.
 
+=======
+create database CODEBASED_5
+
+---QUESTION 1
+
+--Create a book table with id as primary key and provide the appropriate data type to other attributes .isbn no should be unique for each book.
+
+>>>>>>> 775706dc89fb3225aeeaedcf262edbfb46273c5a
 CREATE TABLE books(
     id INT PRIMARY KEY,
     title VARCHAR(100),

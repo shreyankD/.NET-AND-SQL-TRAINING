@@ -1,0 +1,18 @@
+﻿@model datafirst.Models.details
+@{
+    ViewBag.Title = "CustomerDetailsWithOrderId";
+}
+
+<h2>CustomerDetailsWithOrderId</h2>
+
+@if (Model != null)
+{
+    <td>@Model.customer.CustomerID</td>
+    <td>@Model.customer.CompanyName</td>
+    <td>@Model.order.OrderID</td>
+   
+}
+else
+{
+    <p>No customer found with the specified Order ID.</p>
+}
